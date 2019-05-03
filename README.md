@@ -20,3 +20,8 @@
 - Here are some [python basics](https://medium.com/the-renaissance-developer/learning-python-from-zero-to-hero-8ceed48486d5)
 
 ### [Git guide (which is basically just how to collaborate on shit)](https://medium.freecodecamp.org/what-is-git-and-how-to-use-it-c341b049ae61)
+
+### Practice
+- Clone this repository from Github
+- Go to `practice` directory and to run tests type `python test.py`
+- Solutions go inside the other files in `practice` ie. `mysum.py`
