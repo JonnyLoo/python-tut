@@ -25,3 +25,6 @@
 - Clone this repository from Github
 - Go to `practice` directory and to run tests type `python test.py`
 - Solutions go inside the other files in `practice` ie. `mysum.py`
+
+
+### Test
